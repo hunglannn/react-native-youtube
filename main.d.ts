@@ -9,7 +9,7 @@ export interface YouTubeProps {
   play?: boolean;
   loop?: boolean;
   fullscreen?: boolean;
-  resumePlayAndroid?:boolean;
+  resumePlayAndroid?: boolean;
   controls?: 1 | 2 | 3;
   showinfo?: boolean;
   modestbranding?: boolean;
